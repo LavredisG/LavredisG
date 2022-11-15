@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lavredis Goume</h1>
 <h3 align="center">An E.C.E. Student at National Technical University of Athens</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lavredisg" alt="lavredisg" /></a> </p>
+<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lavredisg" alt="lavredisg" /></a> </p> -->
 
 - 📫 How to reach me **lavredisgoume@gmail.com**
 
