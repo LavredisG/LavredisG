@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **lavredisgoume@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/lavredis-goume/](https://www.linkedin.com/in/lavredis-goume/)
+<!-- - 📄 Know about my experiences [https://www.linkedin.com/in/lavredis-goume/](https://www.linkedin.com/in/lavredis-goume/) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
