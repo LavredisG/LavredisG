@@ -8,6 +8,27 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/lavredis-goume/](https://www.linkedin.com/in/lavredis-goume/)
 
+- ## 🌐 Open Source Contributions
+
+### ☁️ Microsoft Azure Docs
+
+- **Repository:** [https://github.com/MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs)
+- **Contributions:**
+  - Pull Request 1: [https://github.com/MicrosoftDocs/azure-docs/pull/121555](https://github.com/MicrosoftDocs/azure-docs/pull/121555) (Fixed documentation)
+
+### 📤 KafkaJS
+
+- **Repository:** [https://github.com/tulios/kafkajs](https://github.com/tulios/kafkajs)
+- **Contributions:**
+  - Pull Request 1: [https://github.com/tulios/kafkajs/pull/1648](https://github.com/tulios/kafkajs/pull/1648) (Fixed documentation) 
+
+### 🐘 Pg-boss
+
+- **Repository:** [https://github.com/timgit/pg-boss](https://github.com/timgit/pg-boss)
+- **Contributions:**
+  - Pull Request 1: [https://github.com/timgit/pg-boss/pull/431](https://github.com/timgit/pg-boss/pull/431) (Fixed documentation)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/lavredis goume" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lavredis goume" height="30" width="40" /></a>
