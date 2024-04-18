@@ -15,7 +15,7 @@
 - **Repository:** [https://github.com/MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs)
 - **Contributions:**
   - Pull Request 1: [https://github.com/MicrosoftDocs/azure-docs/pull/121555](https://github.com/MicrosoftDocs/azure-docs/pull/121555) (Fixed documentation)
-
+  - Pull Request 2: [https://github.com/MicrosoftDocs/azure-docs/pull/121771](https://github.com/MicrosoftDocs/azure-docs/pull/121771) (Fixed documentation)
 ### 📤 KafkaJS
 
 - **Repository:** [https://github.com/tulios/kafkajs](https://github.com/tulios/kafkajs)
