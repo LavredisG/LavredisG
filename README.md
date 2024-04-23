@@ -16,6 +16,13 @@
 - **Contributions:**
   - Pull Request 1: [https://github.com/MicrosoftDocs/azure-docs/pull/121555](https://github.com/MicrosoftDocs/azure-docs/pull/121555) (Fixed documentation)
   - Pull Request 2: [https://github.com/MicrosoftDocs/azure-docs/pull/121771](https://github.com/MicrosoftDocs/azure-docs/pull/121771) (Fixed documentation)
+
+### ☸️ Karmada
+- **Repository:** [https://github.com/karmada-io/website](https://github.com/karmada-io/website)
+- **Contributions:**
+  - Pull Request 1: [https://github.com/karmada-io/website/pull/594](https://github.com/karmada-io/website/pull/594) (Fixed documentation)
+
+
 ### 📤 KafkaJS
 
 - **Repository:** [https://github.com/tulios/kafkajs](https://github.com/tulios/kafkajs)
