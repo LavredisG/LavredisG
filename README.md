@@ -10,7 +10,7 @@
   - Pull Request 1: [https://github.com/MicrosoftDocs/azure-docs/pull/121555](https://github.com/MicrosoftDocs/azure-docs/pull/121555) (Fixed documentation)
   - Pull Request 2: [https://github.com/MicrosoftDocs/azure-docs/pull/121771](https://github.com/MicrosoftDocs/azure-docs/pull/121771) (Fixed documentation)
  
-### ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) Kubernetes
+### ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 - **Repository:** [https://github.com/kubernetes/website/](https://github.com/kubernetes/website/)
 - **Contributions:**
