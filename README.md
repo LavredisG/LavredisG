@@ -6,34 +6,21 @@
 ### ☁️ Microsoft Azure Docs
 
 - **Repository:** [https://github.com/MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs)
-- **Contributions:**
-  - Pull Request 1: [https://github.com/MicrosoftDocs/azure-docs/pull/121555](https://github.com/MicrosoftDocs/azure-docs/pull/121555) (Fixed documentation)
-  - Pull Request 2: [https://github.com/MicrosoftDocs/azure-docs/pull/121771](https://github.com/MicrosoftDocs/azure-docs/pull/121771) (Fixed documentation)
  
 ### ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 - **Repository:** [https://github.com/kubernetes/website/](https://github.com/kubernetes/website/)
-- **Contributions:**
-  - Pull Request 1: [https://github.com/kubernetes/website/pull/45885](https://github.com/kubernetes/website/pull/45885) (Fixed documentation) 
 
 ### ☸️ Karmada
 - **Repository:** [https://github.com/karmada-io/website](https://github.com/karmada-io/website)
-- **Contributions:**
-  - Pull Request 1: [https://github.com/karmada-io/website/pull/594](https://github.com/karmada-io/website/pull/594) (Fixed documentation)
-  - Pull Request 2: [https://github.com/karmada-io/website/pull/595](https://github.com/karmada-io/website/pull/595) (Fixed documentation)
-
 
 ### 📤 KafkaJS
 
 - **Repository:** [https://github.com/tulios/kafkajs](https://github.com/tulios/kafkajs)
-- **Contributions:**
-  - Pull Request 1: [https://github.com/tulios/kafkajs/pull/1648](https://github.com/tulios/kafkajs/pull/1648) (Fixed documentation) 
 
 ### 🐘 Pg-boss
 
 - **Repository:** [https://github.com/timgit/pg-boss](https://github.com/timgit/pg-boss)
-- **Contributions:**
-  - Pull Request 1: [https://github.com/timgit/pg-boss/pull/431](https://github.com/timgit/pg-boss/pull/431) (Fixed documentation)
 
 
 <h3 align="left">Connect with me:</h3>
