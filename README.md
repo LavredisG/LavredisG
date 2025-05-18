@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lavredis Goume</h1>
-<h3 align="center">A E.C.E. Student at National Technical University of Athens</h3>
+<h3 align="center">E.C.E. Student at National Technical University of Athens</h3>
 
 ## 🌐 Open Source Contributions
 
